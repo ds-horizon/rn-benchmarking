@@ -219,7 +219,7 @@ export function applyTemplates(RN_VERSION: string, TEMPLATE_DIR: string, BENCHMA
   packageJson.dependencies = {
     ...packageJson.dependencies,
     "react-native-fs": "^2.20.0",
-    "@d11/marco": "^0.0.9"
+    "@d11/marco": "0.0.16"
   };
 
   fs.writeFileSync(packageJsonPath, JSON.stringify(packageJson, null, 2));
