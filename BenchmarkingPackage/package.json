@@ -21,7 +21,7 @@
         "android"
     ],
     "repository": "https://github.com/dream11/rn-benchmarking",
-    "author": "Dream Sports Labs <dreamsportslabs@dream11.com> (https://github.com/dream-sports-labs)",
+    "author": "Dream Sports Labs <dreamsportslabs@dream11.com> (https://github.com/ds-horizon)",
     "license": "MIT",
     "homepage": "https://github.com/dream11/rn-benchmarking#readme",
     "peerDependencies": {
