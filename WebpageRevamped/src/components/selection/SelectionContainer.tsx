@@ -126,10 +126,10 @@ export const SelectionContainer = ({
             ) : null}
 
             <div className="NoteContainer">
-                <a className={"Link"} href="https://github.com/dream-sports-labs/rn-benchmarking" target="_blank"
+                <a className={"Link"} href="https://github.com/ds-horizon/rn-benchmarking" target="_blank"
                    rel="noopener noreferrer">Access To GitHub Repo</a>
                 <a className={"Link"}
-                   href="https://github.com/dream-sports-labs/rn-benchmarking/tree/main/WebpageRevamped/src/Reports">
+                   href="https://github.com/ds-horizon/rn-benchmarking/tree/main/WebpageRevamped/src/Reports">
                     Access All the Reports Here</a>
                 <div className="Note">*Benchmarking numbers are generated from debug builds.</div>
             </div>
